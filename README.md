@@ -1,16 +1,9 @@
 <p align="center">
   <img src="<p align="center">
-  <img src="https://telegra.ph/file/68d28011b2bc356b5db01.png" alt= "Movie adda Logo">
+  <img src="https://telegra.ph/file/fbf4efda024d766f755a4.jpg" alt= "Movie adda Logo">
 </p>
 <h1 align="center">
   <b> Movie adda logo </b>
-</h1>
-
-
-## Features " alt="Movie adda Logo">
-</p>
-<h1 align="center">
-  <b> Movie adda </b>
 </h1>
 
 
